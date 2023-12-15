@@ -1,0 +1,72 @@
+PI:
+  - name: Stephen James
+    role: Principal Investigator
+    website: https://stepjam.github.io/
+    image: /assets/img/stephen_james.jpg
+
+ResearchScientists:
+  - name: Younggyo Seo
+    role: Research Scientist
+    website: https://younggyo.me/
+    image: /assets/img/people/younggyo_seo.jpg
+    
+  - name: Mohit Shridhar
+    role: Research Scientist
+    website: https://mohitshridhar.com/
+    image: /assets/img/people/mohit_shridhar.jpg 
+    
+  - name: Xiao Ma
+    role: Research Scientist
+    website: https://yusufma03.github.io/
+    image: /assets/img/people/xiao_ma.jpg 
+    
+  - name: Iain Haughton
+    role: Research Scientist
+    website: https://uk.linkedin.com/in/iain-haughton-194321135
+    image: /assets/img/people/iain_haughton.jpg 
+    
+ResearchEngineers:
+  - name: Eugene Teoh
+    role: Machine Learning Engineer
+    website: https://eugeneteoh.com/
+    image: /assets/img/people/eugene_teoh.jpg
+    
+  - name: Jafar Uruç
+    role: Robot Engineer
+    website: https://github.com/JafarAbdi
+    image: /assets/img/people/jafar_uruc.jpg 
+    
+  - name: Richie Lo
+    role: Machine Learning Engineer
+    website: https://richielo.github.io/
+    image: /assets/img/people/richie_lo.jpg
+    
+  - name: Nikita Chernyadev
+    role: Simulation Engineer
+    website: https://uk.linkedin.com/in/nikita-chernyadev-8495417a/en
+    image: /assets/img/people/nikita_chernyadev.jpg 
+    
+  - name: Nic Backshall
+    role: Robot Engineer
+    website: https://uk.linkedin.com/in/nicholas-backshall
+    image: /assets/img/people/nic_backshall.jpg 
+
+  - name: Sumit Patidar
+    role: Robot Engineer
+    website: https://scholar.google.com/citations?user=6qcXubEAAAAJ&hl=en
+    image: /assets/img/people/sumit_patidar.jpg 
+    
+VisitingMembers:
+  - name: Vitalis Vosylius
+    role: PhD Intern 2023
+    website: https://scholar.google.com/citations?user=nktafp8AAAAJ&hl=en
+    image: /assets/img/people/vitalis_vosylius.jpg 
+
+PastMembers:
+  - name: Pietro Mazzaglia
+    role: PhD Intern 2023
+    website: https://mazpie.github.io/
+    where_now: Company X, Position Y
+    image: /assets/img/people/pietro_mazzaglia.jpg 
+
+
