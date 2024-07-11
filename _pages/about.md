@@ -9,9 +9,9 @@ profile:
   image: people/stephen_james.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Dyson</p>
+    <p>Previous PI</p>
     <p>Robot Learning Lab</p>
-    <p>London / Singapore</p>
+    <p>London</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
