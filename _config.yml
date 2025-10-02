@@ -8,7 +8,7 @@ middle_name:
 last_name: James
 email: stepjamuk@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Leading the Dyson Robot Learning Lab, London.
+  CEO & Founder of Neuracore | Assistant Professor at Imperial College London
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
